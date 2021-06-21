@@ -1,4 +1,9 @@
-
+/*
+   Esp moduel code
+   this module will be attached to Window Control Device and run a webserver.
+   
+   when client request, Esp module will request information to Node32s through Serial communication, then response.
+*/
 
 #include <ESP8266WiFi.h>
 #include <WiFiClient.h>
