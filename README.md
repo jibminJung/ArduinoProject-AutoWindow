@@ -5,7 +5,7 @@ Window Open/Close controller with Fine dust sensor and water sensor
 
 Project is developed in Arduino IDE, c++
 
-Used-hardware : Arduino Mega 2560, Node32s, HC-06, ESP-01,Sharp GP2Y1014AU0F (Dust Sensor), Water Level Sensor, 28BYJ-48 (Step Motor)
+Used-hardware : Arduino Mega 2560, Node32s, HC-06, ESP-01,Sharp GP2Y1014AU0F (Dust Sensor), Water Level Sensor, 28BYJ-48 (Step Motor), LCD 1602(I2C)
 
 *********************************
 ## Project is devided into 2 parts.
