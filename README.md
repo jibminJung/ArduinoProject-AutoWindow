@@ -36,5 +36,5 @@ Window Control Device have touch button for auto/manual mode transition. It also
 ***
 ## Sample Video
 
-[Video](https://dongguk0-my.sharepoint.com/personal/wlqals1_dongguk_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fwlqals1%5Fdongguk%5Fedu%2FDocuments%2F%EA%B7%B8%EB%A6%BC%2F%EC%B9%B4%EB%A9%94%EB%9D%BC%20%EC%95%A8%EB%B2%94%2F2021%2FHwVideoEditor%5F2021%5F06%5F11%5F180427567%2Emp4&parent=%2Fpersonal%2Fwlqals1%5Fdongguk%5Fedu%2FDocuments%2F%EA%B7%B8%EB%A6%BC%2F%EC%B9%B4%EB%A9%94%EB%9D%BC%20%EC%95%A8%EB%B2%94%2F2021&originalPath=aHR0cHM6Ly9kb25nZ3VrMC1teS5zaGFyZXBvaW50LmNvbS86djovZy9wZXJzb25hbC93bHFhbHMxX2RvbmdndWtfZWR1L0ViTmtVR0k5bmpwQ3ZkTklrUTBCeUpjQmhLZFFBTnpBT21zVUd4WlZ2RjlTRlE%5FcnRpbWU9dTRnVzIxdzAyVWc, "vid link")
+[Video](https://dongguk0-my.sharepoint.com/:v:/g/personal/wlqals1_dongguk_edu/EbNkUGI9njpCvdNIkQ0ByJcBhKdQANzAOmsUGxZVvF9SFQ?e=IgvcHF, "vid link")
 
